@@ -1,3 +1,9 @@
+Forked from MehrCurry/docker-sonar and modified to:
+
+  * Not have the external DB dependency
+  * Use the plugins I'm interested in
+
+
 Docker Image for Sonarqube
 ==========================
 
